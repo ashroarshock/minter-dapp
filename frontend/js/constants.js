@@ -1,5 +1,5 @@
 const contractAddress = "0xDb94489fDBe52dDF9900e7048856272F7f229Fcc"; // Replace with your own contract address
-const chain = 'goerli'; // goerli, polygon, or ethereum
+const chain = 'Polygon'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Skulls N Stuff Limited Edition NFT";
 const welcome_h2 = "Connect to MetaMask to Get Started";
