@@ -1,4 +1,4 @@
-const contractAddress = "0x5B9836C6bDbCF3E915c75821b005B2b6176aD2f5"; // Replace with your own contract address
+const contractAddress = "0x2219eF0628FF537979E112F6dB4f9809caB1F541"; // Replace with your own contract address
 const chain = 'Polygon'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Skulls N Stuff Limited Edition NFT";
